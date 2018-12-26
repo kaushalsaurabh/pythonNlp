@@ -20,7 +20,7 @@ def get_text_from_pdf (pdf_file_name , password = ''):
     return '\n'.join(text)
 
 # Call the function with appropriate parameters
-print(get_text_from_pdf("sample_pdf_file.pdf"))
+print(get_text_from_pdf("samples/sample_pdf_file.pdf"))
 
 
 

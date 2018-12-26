@@ -33,4 +33,4 @@ def get_attributes(filename):
         print('Run %s : %s' % (idx, run.text))
 
 
-print(get_attributes('sample_docx_1page.docx'))
+print(get_attributes('samples/sample_docx_1page.docx'))
