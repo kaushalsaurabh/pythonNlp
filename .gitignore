@@ -1,3 +1,4 @@
 .DS_Store
 .idea/
 venv/
+nlp_with_python_cookbook/practice/user_defined_corpus/__pycache__/
