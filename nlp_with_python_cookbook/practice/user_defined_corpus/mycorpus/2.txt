@@ -1,0 +1,102 @@
+2.672:2.672:Writing a technical paperProf. Wai Cheng
+DepartmentofMechanicalEngineeringMIT
+Department of Mechanical Engineering, MIT
+Elements of a technical paper ppŁTitle
+ŁAbstract
+ŁIntroduction
+ŁTheoretical background
+
+ŁApparatus and procedureppp
+ŁResults and discussion
+
+ŁConclusionsConclusionsŁNomenclature (optional)
+
+ŁReferencesReferencesŁAppendices (optional)
+
+2.672 writinggŁIndividual reporting
+ŒYoushareideas,dataandresultswithyour
+You share ideas, data and results with your group members.  You need to write your 
+own project report though.ŁWriting style
+Avoid subjective comments, and use of personal 
+pronouns; use passive voice instead
+Write directly, avoid words that are not useful 
+suchas:
+such as:ﬁIn order toﬂ
+ﬁthe purpose of this experiment is toﬂ
+No. of significant figures in numbers should 
+reflect accuracy of measurement
+
+Paper versus reportppŁReport
+Usuallyforinternaluse
+ŒUsually for internal useŒDocument details of the project for archival 
+purposepurposeInclude details: drawings, computer programs
+ŁPaperŁPaperŒFor external audience
+Succinctandtothepoint
+ŒSuccinct and to the pointDo not need to write about routine details such 
+as calibration procedure etc.
+pDo not put computer program listing in a paper 
+
+TitleŁThe title is what draws reader to your work
+ŒReveal the topic of the paper
+ŒShould include key words about the projectyjŁMake the title interesting and attractive
+
+AbstractŁBrief condensation of the paper
+Œ150 Œ200 words
+ŒDo notexplain why the study is done in the 
+yyabstractŁWhat was done?
+ŁHow was it done?
+
+ŁWhat are the si
+gnificant resultsg
+IntroductionŁIntroduces subject
+ŒBackground and context
+ŒArticulate the need for the studyyŒClearly define the problem (purpose of the 
+investigation)ŒBriefly outline overall approach
+
+Theoretical background(Should use a more meaningful heading than theoretical background)ŁPhysical explanation of the phenomena involved
+ŁDevelop governing equations
+ŒAssumptions: support them quantitatively
+e.g. laminar flow Šgive Re
+ŒDescribe model development
+Give the key equations only; put details in the 
+diappendixŁConnect your theory to your project
+Whhillbd
+ŒWhat t
+heoretical values are to be compared to experimental results?
+Apparatus and procedureppp
+ŁOverview of operation
+ŒRefer to a schematic to explain the operation
+ŒGive dimension of apparatus
+Relationship between the laboratory device and 
+the real device
+ŒWhat are being measured?
+Do not need to give details about transducers if 
+theyarecommondevices
+they are common devicesŁExperimental matrix
+Whatarethevariablesandwhatrangehas
+ŒWhat are the variables and what range has been covered?
+Results and discussionResultsUfi
+ŁUse figuresŁDescribe the direct observation first (e.g. 
+ti)
+pressure vs. time)ŒPoint out the features and the physics behind 
+themthemŁShow how do the results change when you 
+changethevariablesoftheexperiment
+change the variables of the experimentŒMagnitude (up or down; by how much?)
+Trendsandscalinglaws
+ŒTrends and scaling lawslinear, exponential, –
+Results and discussionDiscussionŁDoes theory produce the same features as the 
+observations?ŁPlot theoretical values on the same graph as the 
+experimental resultsElithdiff
+ŒExplain the differencesŁMake the results (theory and experiment) 
+useful
+ConclusionsŁSummary of your finding
+ŁPronounce your judgment
+ŒWhat are the ke
+y parameters?yŒHow are the results related to these 
+parametersŒHow good is your model? What does it 
+capture?ŒHow does your study contribute to the 
+objective stated in your introduction?
+AppendicesppŁDetails that your reader may not need to 
+follow the overall picture but are required to 
+support your workŁNeed have narrative to describe any 
+equation, table, or graph in the appendix
