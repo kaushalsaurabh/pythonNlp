@@ -9,6 +9,8 @@ date_regex = '/(\d{4})/(\d{1,2})/(\d{1,2})/'
 
 print("Date found in the URL :", re.findall(date_regex, url))
 
+'''The [] notation that is set essentially means: match either of the characters enclosed inside the set notation.
+ If any single match is found, the pattern is true. '''
 def is_allowed_specific_char(string):
   charRe = re.compile(r'[^a-zA-Z0-9.]')
   string = charRe.search(string)
